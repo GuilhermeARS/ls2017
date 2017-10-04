@@ -1,0 +1,80 @@
+src/simplejavacalculator/Calculator.java:3:	Each class should declare at least one constructor
+src/simplejavacalculator/Calculator.java:3:	headerCommentRequirement Required
+src/simplejavacalculator/Calculator.java:4:	enumCommentRequirement Required
+src/simplejavacalculator/Calculator.java:8:	enumCommentRequirement Required
+src/simplejavacalculator/Calculator.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/Calculator.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/Calculator.java:12:	fieldCommentRequirement Required
+src/simplejavacalculator/Calculator.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/Calculator.java:13:	fieldCommentRequirement Required
+src/simplejavacalculator/Calculator.java:17:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:20:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:23:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:26:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:33:	Avoid throwing raw exception types.
+src/simplejavacalculator/Calculator.java:36:	Parameter 'newMode' is not assigned and could be declared final
+src/simplejavacalculator/Calculator.java:36:	Parameter 'num' is not assigned and could be declared final
+src/simplejavacalculator/Calculator.java:36:	publicMethodCommentRequirement Required
+src/simplejavacalculator/Calculator.java:41:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:50:	Parameter 'num' is not assigned and could be declared final
+src/simplejavacalculator/Calculator.java:50:	publicMethodCommentRequirement Required
+src/simplejavacalculator/Calculator.java:54:	publicMethodCommentRequirement Required
+src/simplejavacalculator/Calculator.java:62:	Parameter 'newMode' is not assigned and could be declared final
+src/simplejavacalculator/Calculator.java:62:	Parameter 'num' is not assigned and could be declared final
+src/simplejavacalculator/Calculator.java:62:	publicMethodCommentRequirement Required
+src/simplejavacalculator/Calculator.java:64:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:67:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:70:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:73:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:76:	A method should have only one exit point, and that should be the last statement in the method
+src/simplejavacalculator/Calculator.java:83:	Avoid throwing raw exception types.
+src/simplejavacalculator/SimpleJavaCalculator.java:1:	Comment is too large: Too many lines
+src/simplejavacalculator/SimpleJavaCalculator.java:19:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/simplejavacalculator/SimpleJavaCalculator.java:21:	Parameter 'args' is not assigned and could be declared final
+src/simplejavacalculator/SimpleJavaCalculator.java:21:	publicMethodCommentRequirement Required
+src/simplejavacalculator/SimpleJavaCalculator.java:22:	Local variable 'uiCal' could be declared final
+src/simplejavacalculator/UI.java:1:	Comment is too large: Too many lines
+src/simplejavacalculator/UI.java:28:	Avoid short class names like UI
+src/simplejavacalculator/UI.java:28:	The class 'UI' has a Cyclomatic Complexity of 5 (Highest = 15).
+src/simplejavacalculator/UI.java:28:	The class 'UI' has a Modified Cyclomatic Complexity of 5 (Highest = 15).
+src/simplejavacalculator/UI.java:28:	The class 'UI' has a Standard Cyclomatic Complexity of 5 (Highest = 15).
+src/simplejavacalculator/UI.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:29:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:30:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:31:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:32:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:35:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:35:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:37:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/simplejavacalculator/UI.java:37:	fieldCommentRequirement Required
+src/simplejavacalculator/UI.java:40:	publicMethodCommentRequirement Required
+src/simplejavacalculator/UI.java:48:	Avoid instantiating new objects inside loops
+src/simplejavacalculator/UI.java:68:	publicMethodCommentRequirement Required
+src/simplejavacalculator/UI.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/simplejavacalculator/UI.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/simplejavacalculator/UI.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/simplejavacalculator/UI.java:110:	Avoid variables with short names like e
+src/simplejavacalculator/UI.java:110:	Parameter 'e' is not assigned and could be declared final
+src/simplejavacalculator/UI.java:110:	The method 'actionPerformed' has a Cyclomatic Complexity of 15.
+src/simplejavacalculator/UI.java:110:	The method 'actionPerformed' has a Modified Cyclomatic Complexity of 15.
+src/simplejavacalculator/UI.java:110:	The method 'actionPerformed' has a Standard Cyclomatic Complexity of 15.
+src/simplejavacalculator/UI.java:110:	The method actionPerformed() has an NPath complexity of 12288
+src/simplejavacalculator/UI.java:110:	publicMethodCommentRequirement Required
+src/simplejavacalculator/UI.java:115:	Potential violation of Law of Demeter (method chain calls)
+src/simplejavacalculator/UI.java:179:	publicMethodCommentRequirement Required
+src/simplejavacalculator/UI.java:188:	publicMethodCommentRequirement Required
