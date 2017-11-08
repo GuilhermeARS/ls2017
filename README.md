@@ -6,12 +6,13 @@ Tarefa 10: dia 04/10 [![Build Status](https://travis-ci.org/GuilhermeARS/Simple-
 
 ### Relatório de tarefas
 As tarefas que tiverem observações grandes demais para caber dentro de uma tabela, serão enumeradas com "OBS-X" e descritas após a tabela.
+
 | Aula  | nota | link | comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/GuilhermeARS/ls2017  |   |
-| 2  | 1  | https://github.com/GuilhermeARS/ls2017/blob/master/Lista%201%20e%202%20Leitura%20de%20Software.docx  | OBS-1   |
+| 2  | 1  | [https://gith......](https://github.com/GuilhermeARS/ls2017/blob/master/Lista%201%20e%202%20Leitura%20de%20Software.docx)  | OBS-1 |
 | 3  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/comandos  |   |
-| 4  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/environment  | OBS-1  |
+| 4  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/environment  | OBS-1 |
 | 5  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/Atividade-Aula-5     e     http://bit.ly/2iiKX3E  |   |
 | 6  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/Atividade-aula-6  |   |
 | 7  | 1  | https://github.com/GuilhermeARS/ls2017/wiki/Tarefa-Aula-7:-13-09-2017  |   |
